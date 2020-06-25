@@ -1,8 +1,8 @@
 #!/user/bin/python3
 def main(msg):
-
-	//Adding a different comment
-	//Print a mesaage
+    #another comment
+	#Adding a different comment
+	#Print a message
 
     print(msg)
 
